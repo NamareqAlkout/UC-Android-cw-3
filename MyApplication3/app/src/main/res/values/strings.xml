@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="name">الاسم</string>
+    <string name="age">العمر</string>
+    <string name="start">التالي</string>
+
+    <string name="data">بيانات العميل</string>
+    <string name="name2">الاسم:</string>
+    <string name="age2">العمر:</string>
+
+</resources>
